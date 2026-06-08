@@ -1,0 +1,49 @@
+{
+  "proxies": {
+
+  },
+  "headers": {
+
+  },
+
+  "OpenAI_API_KEY": "",
+  "OpenAI_Model": "",
+  "resume_path": "full local path to your resume in PDF format",
+
+  "search_queries": [
+    {"keywords": "software engineer", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "data analyst", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "marketing", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "finance", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "accounting", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "human resources", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "sales", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "business analyst", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "project manager", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "operations", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "graphic designer", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "content writer", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "customer service", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "logistics", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "teacher", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "healthcare", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "intern", "location": "Cambodia", "f_WT": ""},
+    {"keywords": "intern", "location": "Phnom Penh", "f_WT": ""},
+    {"keywords": "jobs", "location": "Phnom Penh", "f_WT": ""},
+    {"keywords": "jobs", "location": "Cambodia", "f_WT": ""}
+],
+  "desc_words": [],
+  "title_exclude": [],
+  "title_include": [],
+  "company_exclude": ["ClickJobs.io"],
+  "languages": ["en", "km"],
+  "timespan": "r84600",
+  "jobs_tablename": "jobs",
+  "filtered_jobs_tablename": "filtered_jobs",
+  "db_path": "./data/my_database.db",
+  "pages_to_scrape": 25,
+  "rounds": 3,
+  "days_to_scrape": 10,
+  "app_table": "jobs"
+  }
+  
